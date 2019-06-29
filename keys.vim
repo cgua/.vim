@@ -39,6 +39,11 @@
 
 map <F1> <Esc>:sview ~/.vim/help.txt<CR>
 
+" Ctrl + c
+map <C-v> "*gP
+
+" Ctrl + v
+map <C-c> "*y
 
 "function! OpenInBrowser()"{{{
 "    let l:file =expand('%:p')
@@ -51,3 +56,5 @@ map <F1> <Esc>:sview ~/.vim/help.txt<CR>
 "endfunction
 "
 "nnoremap <f5> :call OpenInBrowser()<cr>"}}}
+
+
