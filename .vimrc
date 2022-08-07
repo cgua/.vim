@@ -1,5 +1,5 @@
 "　插件管理
-source ~/.vim/vundle.vim
+" source ~/.vim/vundle.vim
 
 
 " 内部参数设置
